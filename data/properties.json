@@ -1,0 +1,652 @@
+[
+  {
+    "id": 1,
+    "title": "2 BHK Luxury Apartment in Andheri West",
+    "city": "Mumbai",
+    "type": "Apartment",
+    "area": 950,
+    "price": 9500000,
+    "purpose": "sell",
+    "description": "Spacious 2BHK apartment in prime location with modern amenities. This luxurious apartment features floor-to-ceiling windows, imported fittings, and a beautiful balcony overlooking the city. Perfect for families and professionals.",
+    "images": [
+      "/images/luxury-apartment-andheri-1.jpg",
+      "/images/luxury-apartment-andheri-2.jpg",
+      "/images/luxury-apartment-andheri-3.jpg"
+    ],
+    "facilities": ["Hospital nearby", "Supermarket within 1km", "Metro Station - 500m", "Park", "Swimming pool", "Gym"],
+    "owner": {
+      "name": "Rahul Mehta",
+      "contact": "9876543210",
+      "email": "rahul@example.com"
+    }
+  },
+  {
+    "id": 2,
+    "title": "3 BHK Villa with Garden in Bangalore",
+    "city": "Bangalore",
+    "type": "Villa",
+    "area": 2500,
+    "price": 15000000,
+    "purpose": "sell",
+    "description": "Beautiful 3BHK villa with spacious garden, modern kitchen, and guest bedroom. Located in a gated community with excellent security and amenities. Great for families looking for space and comfort.",
+    "images": ["/images/villa-bangalore-1.jpg", "/images/villa-bangalore-2.jpg", "/images/villa-bangalore-3.jpg"],
+    "facilities": ["Private Garden", "Security Gate", "Community Club", "Guest House", "Parking", "Jogging Track"],
+    "owner": {
+      "name": "Priya Singh",
+      "contact": "9876543211",
+      "email": "priya@example.com"
+    }
+  },
+  {
+    "id": 3,
+    "title": "1 BHK Apartment in Delhi NCR",
+    "city": "Delhi",
+    "type": "Apartment",
+    "area": 650,
+    "price": 4500000,
+    "purpose": "sell",
+    "description": "Affordable 1BHK apartment in a well-connected area of Delhi. Close to schools, hospitals, and shopping centers. Well-maintained society with good amenities and 24/7 security.",
+    "images": ["/images/apartment-delhi-1.jpg", "/images/apartment-delhi-2.jpg", "/images/apartment-delhi-3.jpg"],
+    "facilities": ["School nearby", "Hospital", "Shopping Mall", "Bus Stop", "Parking", "Security"],
+    "owner": {
+      "name": "Amit Kumar",
+      "contact": "9876543212",
+      "email": "amit@example.com"
+    }
+  },
+  {
+    "id": 4,
+    "title": "Commercial Shop in Ahmedabad",
+    "city": "Ahmedabad",
+    "type": "Commercial",
+    "area": 1200,
+    "price": 8000000,
+    "purpose": "sell",
+    "description": "Prime commercial space ideal for retail store, salon, or office. Located on main road with high foot traffic. Spacious interiors with good natural lighting.",
+    "images": [
+      "/images/commercial-shop-ahmedabad-1.jpg",
+      "/images/commercial-shop-ahmedabad-2.jpg",
+      "/images/commercial-shop-ahmedabad-3.jpg"
+    ],
+    "facilities": ["Main Road", "Parking Available", "High Footfall", "Commercial Zone", "Power Backup"],
+    "owner": {
+      "name": "Rajesh Patel",
+      "contact": "9876543213",
+      "email": "rajesh@example.com"
+    }
+  },
+  {
+    "id": 5,
+    "title": "2 BHK Flat for Rent in Pune",
+    "city": "Pune",
+    "type": "Apartment",
+    "area": 850,
+    "price": 35000,
+    "purpose": "rent",
+    "description": "Spacious 2BHK flat available for rent in Koregaon Park. Fully furnished with modern appliances. Ideal for IT professionals and families. Lease period flexible.",
+    "images": ["/images/flat-pune-1.jpg", "/images/flat-pune-2.jpg", "/images/flat-pune-3.jpg"],
+    "facilities": ["Furnished", "Water Supply", "Backup Power", "Parking", "Security", "Terrace"],
+    "owner": {
+      "name": "Neha Desai",
+      "contact": "9876543214",
+      "email": "neha@example.com"
+    }
+  },
+  {
+    "id": 6,
+    "title": "4 BHK Duplex in Chennai",
+    "city": "Chennai",
+    "type": "Duplex",
+    "area": 3000,
+    "price": 18000000,
+    "purpose": "sell",
+    "description": "Luxurious 4BHK duplex apartment with two parking spaces. Modern architecture with separate servant quarter. Ocean view from terrace. Prime location near shopping center.",
+    "images": ["/images/duplex-chennai-1.jpg", "/images/duplex-chennai-2.jpg", "/images/duplex-chennai-3.jpg"],
+    "facilities": ["Ocean View", "Servant Quarter", "2 Parking Spaces", "Garden", "Gym", "Swimming Pool"],
+    "owner": {
+      "name": "Vikram Reddy",
+      "contact": "9876543215",
+      "email": "vikram@example.com"
+    }
+  },
+  {
+    "id": 7,
+    "title": "PG Accommodation in Kolkata",
+    "city": "Kolkata",
+    "type": "PG",
+    "area": 200,
+    "price": 15000,
+    "purpose": "rent",
+    "description": "Comfortable PG room for working professionals. Includes meals, WiFi, and laundry. Safe locality near metro station. All utilities included.",
+    "images": ["/images/pg-kolkata-1.jpg", "/images/pg-kolkata-2.jpg", "/images/pg-kolkata-3.jpg"],
+    "facilities": ["WiFi Included", "Meals Provided", "Laundry Service", "Metro Nearby", "Security", "24/7 Support"],
+    "owner": {
+      "name": "Ananya Roy",
+      "contact": "9876543216",
+      "email": "ananya@example.com"
+    }
+  },
+  {
+    "id": 8,
+    "title": "Luxury Penthouse in Mumbai",
+    "city": "Mumbai",
+    "type": "Apartment",
+    "area": 4500,
+    "price": 50000000,
+    "purpose": "sell",
+    "description": "Ultra-luxury penthouse with panoramic city views. Private pool, home theater, and smart home automation. Located in premium locality with world-class amenities.",
+    "images": ["/images/penthouse-mumbai-1.jpg", "/images/penthouse-mumbai-2.jpg", "/images/penthouse-mumbai-3.jpg"],
+    "facilities": [
+      "Private Pool",
+      "Home Theater",
+      "Smart Automation",
+      "Private Elevator",
+      "Concierge Service",
+      "Gym",
+      "Spa"
+    ],
+    "owner": {
+      "name": "Deepak Sharma",
+      "contact": "9876543217",
+      "email": "deepak@example.com"
+    }
+  },
+  {
+    "id": 9,
+    "title": "2 BHK Modern Apartment in Hyderabad",
+    "city": "Hyderabad",
+    "type": "Apartment",
+    "area": 900,
+    "price": 6500000,
+    "purpose": "sell",
+    "description": "Modern 2BHK apartment in Hi-Tech City with all contemporary amenities. Close to IT companies and shopping malls. Excellent investment opportunity.",
+    "images": [
+      "/images/apartment-hyderabad-1.jpg",
+      "/images/apartment-hyderabad-2.jpg",
+      "/images/apartment-hyderabad-3.jpg"
+    ],
+    "facilities": ["Gym", "Swimming Pool", "Children's Play Area", "24/7 Security", "Parking", "Cafeteria"],
+    "owner": {
+      "name": "Suresh Kumar",
+      "contact": "9876543218",
+      "email": "suresh@example.com"
+    }
+  },
+  {
+    "id": 10,
+    "title": "3 BHK Bungalow in Pune",
+    "city": "Pune",
+    "type": "Villa",
+    "area": 1800,
+    "price": 12000000,
+    "purpose": "sell",
+    "description": "Elegant 3BHK bungalow with attached garden and guest house. Located in upscale residential area with all modern facilities and security.",
+    "images": ["/images/bungalow-pune-1.jpg", "/images/bungalow-pune-2.jpg", "/images/bungalow-pune-3.jpg"],
+    "facilities": ["Private Garden", "Guest House", "Security Gate", "Parking", "Terrace", "Lawn"],
+    "owner": {
+      "name": "Arun Bhatt",
+      "contact": "9876543219",
+      "email": "arun@example.com"
+    }
+  },
+  {
+    "id": 11,
+    "title": "1 BHK Studio Apartment in Gurgaon",
+    "city": "Gurgaon",
+    "type": "Apartment",
+    "area": 550,
+    "price": 4000000,
+    "purpose": "sell",
+    "description": "Compact and elegant 1BHK studio apartment perfect for young professionals. Close to major IT hubs and shopping districts.",
+    "images": ["/images/studio-gurgaon-1.jpg", "/images/studio-gurgaon-2.jpg", "/images/studio-gurgaon-3.jpg"],
+    "facilities": ["Gym", "Swimming Pool", "Power Backup", "24/7 Security", "Parking", "Cafe"],
+    "owner": {
+      "name": "Kavya Verma",
+      "contact": "9876543220",
+      "email": "kavya@example.com"
+    }
+  },
+  {
+    "id": 12,
+    "title": "Commercial Office Space in Bangalore",
+    "city": "Bangalore",
+    "type": "Commercial",
+    "area": 2000,
+    "price": 25000000,
+    "purpose": "sell",
+    "description": "Premium office space with modern infrastructure, perfect for startups and established companies. Located in business district with excellent connectivity.",
+    "images": ["/images/office-bangalore-1.jpg", "/images/office-bangalore-2.jpg", "/images/office-bangalore-3.jpg"],
+    "facilities": ["Power Backup", "Parking", "Cafeteria", "Conference Rooms", "High Speed Internet", "Security"],
+    "owner": {
+      "name": "Prakash Nair",
+      "contact": "9876543221",
+      "email": "prakash@example.com"
+    }
+  },
+  {
+    "id": 13,
+    "title": "3 BHK Apartment in Jaipur",
+    "city": "Jaipur",
+    "type": "Apartment",
+    "area": 1200,
+    "price": 4800000,
+    "purpose": "sell",
+    "description": "Spacious 3BHK apartment in central Jaipur with modern amenities. Great connectivity to schools, hospitals, and shopping centers.",
+    "images": ["/images/apartment-jaipur-1.jpg", "/images/apartment-jaipur-2.jpg", "/images/apartment-jaipur-3.jpg"],
+    "facilities": ["Swimming Pool", "Gym", "Children's Play Area", "Security", "Parking", "Power Backup"],
+    "owner": {
+      "name": "Rakesh Gupta",
+      "contact": "9876543222",
+      "email": "rakesh@example.com"
+    }
+  },
+  {
+    "id": 14,
+    "title": "PG for Girls in Pune",
+    "city": "Pune",
+    "type": "PG",
+    "area": 180,
+    "price": 12000,
+    "purpose": "rent",
+    "description": "Safe and comfortable PG accommodation for working women. Includes meals, WiFi, laundry, and housekeeping services.",
+    "images": ["/images/pg-pune-girls-1.jpg", "/images/pg-pune-girls-2.jpg", "/images/pg-pune-girls-3.jpg"],
+    "facilities": ["WiFi", "Meals Included", "Laundry", "Housekeeping", "Security", "Kitchen Access"],
+    "owner": {
+      "name": "Shreya Joshi",
+      "contact": "9876543223",
+      "email": "shreya@example.com"
+    }
+  },
+  {
+    "id": 15,
+    "title": "2 BHK Apartment in Noida",
+    "city": "Noida",
+    "type": "Apartment",
+    "area": 800,
+    "price": 3800000,
+    "purpose": "sell",
+    "description": "Well-designed 2BHK apartment in Noida with excellent amenities. Close to metro station and shopping centers.",
+    "images": ["/images/apartment-noida-1.jpg", "/images/apartment-noida-2.jpg", "/images/apartment-noida-3.jpg"],
+    "facilities": ["Swimming Pool", "Gym", "Yoga Center", "Security", "Parking", "Power Backup"],
+    "owner": {
+      "name": "Manoj Singh",
+      "contact": "9876543224",
+      "email": "manoj@example.com"
+    }
+  },
+  {
+    "id": 16,
+    "title": "4 BHK Luxury Villa in Chennai",
+    "city": "Chennai",
+    "type": "Villa",
+    "area": 3500,
+    "price": 22000000,
+    "purpose": "sell",
+    "description": "Luxurious 4BHK villa with private pool and landscaped garden. Located in premium residential area with 24/7 security.",
+    "images": [
+      "/images/villa-chennai-luxury-1.jpg",
+      "/images/villa-chennai-luxury-2.jpg",
+      "/images/villa-chennai-luxury-3.jpg"
+    ],
+    "facilities": ["Private Pool", "Landscaped Garden", "Security Gate", "Parking", "Home Theater", "Gym"],
+    "owner": {
+      "name": "Arjun Prabhu",
+      "contact": "9876543225",
+      "email": "arjun@example.com"
+    }
+  },
+  {
+    "id": 17,
+    "title": "Retail Shop in Delhi",
+    "city": "Delhi",
+    "type": "Commercial",
+    "area": 800,
+    "price": 6000000,
+    "purpose": "sell",
+    "description": "Prime retail space in busy shopping area. Perfect for boutique, showroom, or branded store. High foot traffic location.",
+    "images": ["/images/retail-delhi-1.jpg", "/images/retail-delhi-2.jpg", "/images/retail-delhi-3.jpg"],
+    "facilities": ["Main Road", "Parking", "High Footfall", "Power Supply", "Security", "Display Windows"],
+    "owner": {
+      "name": "Sanjay Kapoor",
+      "contact": "9876543226",
+      "email": "sanjay@example.com"
+    }
+  },
+  {
+    "id": 18,
+    "title": "2 BHK Flat in Indore",
+    "city": "Indore",
+    "type": "Apartment",
+    "area": 750,
+    "price": 2500000,
+    "purpose": "sell",
+    "description": "Modern 2BHK flat in central Indore with good amenities. Close to schools, hospitals, and shopping areas.",
+    "images": ["/images/flat-indore-1.jpg", "/images/flat-indore-2.jpg", "/images/flat-indore-3.jpg"],
+    "facilities": ["Swimming Pool", "Gym", "Security", "Parking", "Water Supply", "Power Backup"],
+    "owner": {
+      "name": "Rohit Sharma",
+      "contact": "9876543227",
+      "email": "rohit@example.com"
+    }
+  },
+  {
+    "id": 19,
+    "title": "3 BHK Apartment in Lucknow",
+    "city": "Lucknow",
+    "type": "Apartment",
+    "area": 1100,
+    "price": 3500000,
+    "purpose": "sell",
+    "description": "Spacious 3BHK apartment in upscale locality with premium amenities and excellent connectivity.",
+    "images": ["/images/apartment-lucknow-1.jpg", "/images/apartment-lucknow-2.jpg", "/images/apartment-lucknow-3.jpg"],
+    "facilities": ["Swimming Pool", "Gym", "Children's Play Area", "Security", "Parking", "Cafeteria"],
+    "owner": {
+      "name": "Vikram Verma",
+      "contact": "9876543228",
+      "email": "vikram@example.com"
+    }
+  },
+  {
+    "id": 20,
+    "title": "Luxury Penthouse in Bangalore",
+    "city": "Bangalore",
+    "type": "Apartment",
+    "area": 3500,
+    "price": 35000000,
+    "purpose": "sell",
+    "description": "Stunning penthouse with panoramic city views, private pool, and smart home amenities. Located in premium high-rise building.",
+    "images": [
+      "/images/penthouse-bangalore-1.jpg",
+      "/images/penthouse-bangalore-2.jpg",
+      "/images/penthouse-bangalore-3.jpg"
+    ],
+    "facilities": ["Private Pool", "Home Automation", "Concierge Service", "Gym", "Spa", "Home Theater"],
+    "owner": {
+      "name": "Ravi Krishnan",
+      "contact": "9876543229",
+      "email": "ravi@example.com"
+    }
+  },
+  {
+    "id": 21,
+    "title": "2 BHK Apartment in Chandigarh",
+    "city": "Chandigarh",
+    "type": "Apartment",
+    "area": 950,
+    "price": 5500000,
+    "purpose": "sell",
+    "description": "Modern 2BHK apartment in well-planned city. Close to all amenities with excellent security and facilities.",
+    "images": [
+      "/images/apartment-chandigarh-1.jpg",
+      "/images/apartment-chandigarh-2.jpg",
+      "/images/apartment-chandigarh-3.jpg"
+    ],
+    "facilities": ["Swimming Pool", "Gym", "Children's Play Area", "Security", "Parking", "Power Backup"],
+    "owner": {
+      "name": "Harpreet Singh",
+      "contact": "9876543230",
+      "email": "harpreet@example.com"
+    }
+  },
+  {
+    "id": 22,
+    "title": "Commercial Space in Mumbai",
+    "city": "Mumbai",
+    "type": "Commercial",
+    "area": 1500,
+    "price": 20000000,
+    "purpose": "sell",
+    "description": "Prime commercial space in central Mumbai ideal for corporate offices or retail showroom. Excellent visibility and accessibility.",
+    "images": ["/images/commercial-mumbai-1.jpg", "/images/commercial-mumbai-2.jpg", "/images/commercial-mumbai-3.jpg"],
+    "facilities": ["Parking", "Power Backup", "Cafeteria", "High Speed Internet", "Security", "Conference Rooms"],
+    "owner": {
+      "name": "Rajkumar Singh",
+      "contact": "9876543231",
+      "email": "rajkumar@example.com"
+    }
+  },
+  {
+    "id": 23,
+    "title": "2 BHK Duplex in Hyderabad",
+    "city": "Hyderabad",
+    "type": "Duplex",
+    "area": 1300,
+    "price": 9500000,
+    "purpose": "sell",
+    "description": "Beautiful duplex apartment with separate living and dining areas. Located in gated community with premium amenities.",
+    "images": ["/images/duplex-hyderabad-1.jpg", "/images/duplex-hyderabad-2.jpg", "/images/duplex-hyderabad-3.jpg"],
+    "facilities": ["Swimming Pool", "Gym", "Security Gate", "Parking", "Garden Area", "Power Backup"],
+    "owner": {
+      "name": "Srinivas Reddy",
+      "contact": "9876543232",
+      "email": "srinivas@example.com"
+    }
+  },
+  {
+    "id": 24,
+    "title": "PG Accommodation in Delhi",
+    "city": "Delhi",
+    "type": "PG",
+    "area": 220,
+    "price": 18000,
+    "purpose": "rent",
+    "description": "Comfortable PG room in South Delhi with WiFi, meals, and housekeeping included. Close to metro and educational institutions.",
+    "images": ["/images/pg-delhi-1.jpg", "/images/pg-delhi-2.jpg", "/images/pg-delhi-3.jpg"],
+    "facilities": ["WiFi", "Meals Provided", "Laundry", "Housekeeping", "Security", "Common Area"],
+    "owner": {
+      "name": "Ravi Yadav",
+      "contact": "9876543233",
+      "email": "ravi.yadav@example.com"
+    }
+  },
+  {
+    "id": 25,
+    "title": "1 BHK Apartment for Rent in Surat",
+    "city": "Surat",
+    "type": "Apartment",
+    "area": 600,
+    "price": 18000,
+    "purpose": "rent",
+    "description": "Clean and well-ventilated 1BHK near Athwa Gate. Ideal for young professionals. Markets and hospitals within 1km.",
+    "images": [
+      "/images/rent-apartment-surat-1.jpg",
+      "/images/rent-apartment-surat-2.jpg",
+      "/images/rent-apartment-surat-3.jpg"
+    ],
+    "facilities": ["Lift", "24/7 Security", "Water Supply", "Parking", "Power Backup", "Market Nearby"],
+    "owner": {
+      "name": "Nilesh Patel",
+      "contact": "9876543301",
+      "email": "nilesh.patel@example.com"
+    }
+  },
+  {
+    "id": 26,
+    "title": "3 BHK Villa for Rent in Nagpur",
+    "city": "Nagpur",
+    "type": "Villa",
+    "area": 2000,
+    "price": 38000,
+    "purpose": "rent",
+    "description": "Spacious independent villa in Manish Nagar with private parking and small lawn. Fully ventilated with modular kitchen.",
+    "images": [
+      "/images/rent-villa-nagpur-1.jpg",
+      "/images/rent-villa-nagpur-2.jpg",
+      "/images/rent-villa-nagpur-3.jpg"
+    ],
+    "facilities": ["Private Parking", "Lawn", "Power Backup", "Security", "Nearby School", "Market"],
+    "owner": {
+      "name": "Ankit Deshmukh",
+      "contact": "9876543302",
+      "email": "ankit.d@example.com"
+    }
+  },
+  {
+    "id": 27,
+    "title": "Studio Apartment for Rent in Thane",
+    "city": "Thane",
+    "type": "Apartment",
+    "area": 400,
+    "price": 22000,
+    "purpose": "rent",
+    "description": "Compact studio in Hiranandani Estate with balcony. Ideal for singles. Close to offices and supermarkets.",
+    "images": [
+      "/images/rent-studio-thane-1.jpg",
+      "/images/rent-studio-thane-2.jpg",
+      "/images/rent-studio-thane-3.jpg"
+    ],
+    "facilities": ["Balcony", "Gym", "Security", "Lift", "Parking", "Power Backup"],
+    "owner": {
+      "name": "Shivani Rao",
+      "contact": "9876543303",
+      "email": "shivani.rao@example.com"
+    }
+  },
+  {
+    "id": 28,
+    "title": "2 BHK Apartment for Rent in Bhopal",
+    "city": "Bhopal",
+    "type": "Apartment",
+    "area": 950,
+    "price": 16000,
+    "purpose": "rent",
+    "description": "Well-maintained 2BHK in Arera Colony with covered parking. Close to lake and recreation areas.",
+    "images": [
+      "/images/rent-apartment-bhopal-1.jpg",
+      "/images/rent-apartment-bhopal-2.jpg",
+      "/images/rent-apartment-bhopal-3.jpg"
+    ],
+    "facilities": ["Covered Parking", "24/7 Security", "Children's Play Area", "Lift", "Power Backup", "Water Supply"],
+    "owner": {
+      "name": "Meera Khanna",
+      "contact": "9876543304",
+      "email": "meera.khanna@example.com"
+    }
+  },
+  {
+    "id": 29,
+    "title": "1 RK for Rent in Coimbatore",
+    "city": "Coimbatore",
+    "type": "Apartment",
+    "area": 350,
+    "price": 8000,
+    "purpose": "rent",
+    "description": "Affordable 1 RK near Gandhipuram bus stand. Furnished with bed and wardrobe. Ideal for students.",
+    "images": [
+      "/images/rent-1rk-coimbatore-1.jpg",
+      "/images/rent-1rk-coimbatore-2.jpg",
+      "/images/rent-1rk-coimbatore-3.jpg"
+    ],
+    "facilities": ["Furnished", "Water Supply", "Security", "Public Transport Nearby", "Laundry Nearby", "Parking"],
+    "owner": {
+      "name": "Sathish Kumar",
+      "contact": "9876543305",
+      "email": "sathish.k@example.com"
+    }
+  },
+  {
+    "id": 30,
+    "title": "2 BHK Sea-Facing Apartment for Rent in Kochi",
+    "city": "Kochi",
+    "type": "Apartment",
+    "area": 1050,
+    "price": 28000,
+    "purpose": "rent",
+    "description": "Sea-facing 2BHK near Marine Drive with modern amenities and modular kitchen. Gated community.",
+    "images": [
+      "/images/rent-apartment-kochi-1.jpg",
+      "/images/rent-apartment-kochi-2.jpg",
+      "/images/rent-apartment-kochi-3.jpg"
+    ],
+    "facilities": ["Sea View", "Gym", "Swimming Pool", "Security", "Power Backup", "Lift"],
+    "owner": {
+      "name": "Anu Mathew",
+      "contact": "9876543306",
+      "email": "anu.mathew@example.com"
+    }
+  },
+  {
+    "id": 31,
+    "title": "3 BHK Apartment for Rent in Visakhapatnam",
+    "city": "Visakhapatnam",
+    "type": "Apartment",
+    "area": 1400,
+    "price": 32000,
+    "purpose": "rent",
+    "description": "Modern 3BHK in MVP Colony with sea breeze and spacious balconies. Close to IT SEZ.",
+    "images": [
+      "/images/rent-apartment-vizag-1.jpg",
+      "/images/rent-apartment-vizag-2.jpg",
+      "/images/rent-apartment-vizag-3.jpg"
+    ],
+    "facilities": ["Balcony", "Gym", "Children's Play Area", "Security", "Parking", "Power Backup"],
+    "owner": {
+      "name": "Ramesh Chandra",
+      "contact": "9876543307",
+      "email": "ramesh.c@example.com"
+    }
+  },
+  {
+    "id": 32,
+    "title": "PG for Students in Patna",
+    "city": "Patna",
+    "type": "PG",
+    "area": 200,
+    "price": 9000,
+    "purpose": "rent",
+    "description": "Student-friendly PG near Boring Road. Includes meals, WiFi, and housekeeping. Separate study area.",
+    "images": [
+      "/images/pg-patna-1.jpg",
+      "/images/pg-patna-2.jpg",
+      "/images/pg-patna-3.jpg"
+    ],
+    "facilities": ["WiFi", "Meals Included", "Laundry", "Housekeeping", "Security", "Study Room"],
+    "owner": {
+      "name": "Pooja Singh",
+      "contact": "9876543308",
+      "email": "pooja.s@example.com"
+    }
+  },
+  {
+    "id": 33,
+    "title": "1 BHK Apartment for Rent in Vadodara",
+    "city": "Vadodara",
+    "type": "Apartment",
+    "area": 580,
+    "price": 12000,
+    "purpose": "rent",
+    "description": "Neat 1BHK in Alkapuri close to railway station. Suitable for couples and working professionals.",
+    "images": [
+      "/images/rent-apartment-vadodara-1.jpg",
+      "/images/rent-apartment-vadodara-2.jpg",
+      "/images/rent-apartment-vadodara-3.jpg"
+    ],
+    "facilities": ["Lift", "Power Backup", "Parking", "Security", "Water Supply", "Market Nearby"],
+    "owner": {
+      "name": "Ketan Shah",
+      "contact": "9876543309",
+      "email": "ketan.shah@example.com"
+    }
+  },
+  {
+    "id": 34,
+    "title": "2 BHK Apartment for Rent in Guwahati",
+    "city": "Guwahati",
+    "type": "Apartment",
+    "area": 900,
+    "price": 15000,
+    "purpose": "rent",
+    "description": "Airy 2BHK near Beltola with great connectivity. Calm neighborhood with essential services nearby.",
+    "images": [
+      "/images/rent-apartment-guwahati-1.jpg",
+      "/images/rent-apartment-guwahati-2.jpg",
+      "/images/rent-apartment-guwahati-3.jpg"
+    ],
+    "facilities": ["Security", "Parking", "Water Supply", "Lift", "Children's Play Area", "Power Backup"],
+    "owner": {
+      "name": "Anupam Das",
+      "contact": "9876543310",
+      "email": "anupam.das@example.com"
+    }
+  }
+]
